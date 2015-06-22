@@ -1,0 +1,27 @@
+D:\>	cd db-derby-10.2.1.6-bin
+
+D:\db-derby-10.2.1.6-bin>	cd bin
+
+D:\db-derby-10.2.1.6-bin\bin>	setNetworkServerCP
+
+D:\db-derby-10.2.1.6-bin\bin>	SET DERBY_INSTALL=D:\db-derby-10.2.1.6-bin
+
+D:\db-derby-10.2.1.6-bin\bin>	set CLASSPATH=D:\db-derby-10.2.1.6-bin\lib\derby.ja
+r;D:\db-derby-10.2.1.6-bin\lib\derbytools.jar;D:\db-derby-10.2.1.6-bin\lib\derby
+net.jar;.;C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip
+
+D:\db-derby-10.2.1.6-bin\bin>	startNetworkServer
+
+Apache Derby Network Server - 10.2.1.6 - (452058) started and ready to accept co
+nnections on port 1527 at 2015-06-09 09:43:38.073 GMT
+Terminate batch job (Y/N)?
+^C
+
+D:\db-derby-10.2.1.6-bin\bin>	cd ..
+
+D:\db-derby-10.2.1.6-bin>		cd lib
+
+D:\db-derby-10.2.1.6-bin\lib>	java -jar derbyrun.jar server start
+
+Apache Derby Network Server - 10.2.1.6 - (452058) started and ready to accept co
+nnections on port 1527 at 2015-06-09 09:49:05.758 GMT

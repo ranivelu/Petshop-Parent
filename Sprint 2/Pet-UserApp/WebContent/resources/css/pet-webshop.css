@@ -1,0 +1,33 @@
+.container {
+    padding-top: 10px;
+    width: 700px;
+}
+
+.form-horizontal {
+    width: 100%;
+}
+
+input[type="text"] {
+    height: 35px;
+}
+
+.navbar .nav > li > a {
+    color: #000000;
+}
+
+.form-horizontal .control-label {
+    text-align: center;
+}
+
+
+.table .th .td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+.table .tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+.table .tr:nth-child(even) {
+  background-color: #ffffff;
+}

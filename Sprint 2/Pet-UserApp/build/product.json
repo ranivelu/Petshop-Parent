@@ -1,0 +1,26 @@
+[
+   {
+      "prdCode":1,
+      "prdName":"Royal Canin Baby Dog Milk",
+      "prdDesc":"Canned Food 400gm",
+      "prdPrice":342,
+      "imgCode":1,
+      "catCode":4
+   },
+   {
+      "prdCode":2,
+      "prdName":"Royal Calcium Milk Bone",
+      "prdDesc":"Dry Food 1400gm",
+      "prdPrice":420,
+      "imgCode":2,
+      "catCode":2
+   },
+   {
+      "prdCode":3,
+      "prdName":"Royal Canin Boxer Juniorrs",
+      "prdDesc":"Dry Food 200gm",
+      "prdPrice":402,
+      "imgCode":3,
+      "catCode":2
+   }
+]

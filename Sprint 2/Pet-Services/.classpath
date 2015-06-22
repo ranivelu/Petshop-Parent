@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" output="target/classes" path="src/test"/>
+	<classpathentry kind="src" path="src/resources"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Users/ravelu/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/Users/ravelu/.m2/repository/org/springframework/spring-aop/4.0.1.RELEASE/spring-aop-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/ravelu/.m2/repository/org/springframework/spring-beans/4.0.1.RELEASE/spring-beans-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/ravelu/.m2/repository/org/springframework/spring-jdbc/4.0.1.RELEASE/spring-jdbc-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/ravelu/.m2/repository/org/apache/derby/derby/10.2.1.6/derby-10.2.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Users/ravelu/.m2/repository/org/springframework/spring-tx/4.0.1.RELEASE/spring-tx-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Sogeti_NL_Repo/parent/spring-javaconfig-1.0.0.m3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.54/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.54/lib/derbynet.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.54/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Users/ravelu/.m2/repository/org/springframework/spring-test/4.0.1.RELEASE/spring-test-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/ravelu/.m2/repository/org/springframework/spring-context/4.0.1.RELEASE/spring-context-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Sogeti_NL_Repo/javax.transaction-api-1.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
